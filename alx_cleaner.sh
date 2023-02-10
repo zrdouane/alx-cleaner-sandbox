@@ -16,7 +16,7 @@ echo -e	"               GitHub   ~> https://github.com/zrdouane"
 echo -e	"	       alx Slack ~> Zakariardouane"
 echo -e "	       if you need me to add something in this toolbox feel free to say it."
 
-sleep 0.05
+sleep 2
 echo -e "\033[2J\033[?25l"; R=`tput lines` C=`tput cols`;: $[R--] ;
 start=$(date +%s)
 
