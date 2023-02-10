@@ -51,7 +51,7 @@ do
   fi
 done
 
-sleep 6
+sleep 7.8
 
 Storage=$(df -h "$HOME" | awk '{print($2)}' | grep G)
 
