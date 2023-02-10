@@ -12,13 +12,13 @@
  1. First : git clone https://github.com/zrdouane/alx-cleaner-sandbox.git
  2. Second : cd alx-cleaner-sandbox
  3. Last  : chmod 744 alx_cleaner.sh
- 
+
 ## How to use ?
 1. First : ./alx_cleaner.sh
 2. Second : choice what you need
 
  ## Screenshots
-
+<img src="https://github.com/zrdouane/alx-cleaner-sandbox/blob/main/toolbox.png" width="800" />
 
  ## Note : 
  Please, report any bug happening with you while installing or running the command
